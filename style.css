@@ -1,0 +1,28 @@
+body{
+    background-color:#09097f;
+}
+
+img {
+    width: 300px;
+    position: relative;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color:white;
+    text-align: center
+}
+
+h3 {
+    color:white;
+    text-align: center;
+}
+
+.pendidikan {
+    color:white;
+    text-align: center;
+}
